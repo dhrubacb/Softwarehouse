@@ -79,7 +79,7 @@ li.dropdown {
 
 
 .header{
-	background-color: #333a45;
+	background-color: #F2F2F2;
 	background-image: url("C:/xampp/htdocs/Software House/lo.jpg"); 
 
 	padding: 1em 0;
@@ -111,27 +111,26 @@ li.dropdown {
 .menu li a{
   	display: block;
 	font-size:1.5em;
-	color: #d9d9d9;
+	color: #637F83;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 	
-	font-weight: bold;
+	font-weight: bolder;
 	padding: 15px;
 }
 #nav .current a {
-   color:#ffffff;
+   color:#425557;
   
    -webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
-.menu li a:hover ,.menu li.active a{
-	color:#d9d9d9;
-	border-bottom: 5px solid white;
-   font-size: 1.33em !important;
+.menu li a:hover {
+	color: #425557;
+	
 } 
 .toggleMenu {
 	display:  none;
@@ -506,7 +505,7 @@ ul.test_box li.test_desc p {
 }
 .footer_head{
 	text-align: center;
-	border-bottom: 1px solid #597275;
+	border-bottom: 1px solid #8ba4a7;
 	padding-bottom: 3em;
 }
 .footer_head h2 {
@@ -556,7 +555,7 @@ ul.message li.msg-desc p{
 	line-height: 0em;
 }
 .subscribe input[type="text"] {
-	background: #597275;
+	background: #8ba4a7;
 	transition: border-color 0.3s;
 	-o-transition: border-color 0.3s;
 	-ms-transition: border-color 0.3s;
@@ -579,7 +578,7 @@ ul.message li.msg-desc p{
 	-o-border-radius:5px;
 }
 .subscribe input[type="submit"] {
-	background: #597275;
+	background: #8ba4a7;
 	font-weight: bold;
 	border: none;
 	padding: 8px 15px;
@@ -599,7 +598,7 @@ ul.message li.msg-desc p{
 ul.twitter{
 	padding: 1em 2em;
 	list-style:none;
-	background:#597275;
+	background:#8ba4a7;
 }
 ul.twitter li.twt_icon{
 	float: left;
@@ -704,7 +703,7 @@ i.linked{
 	background: #637f83;
 	position: relative;
 	padding: 30px 0 0 0;
-	border-bottom: 1px solid #597275;
+	border-bottom: 1px solid #8ba4a7;
 }
 .title-section h1 {
 	margin: 0 0 5px 0;
@@ -718,7 +717,7 @@ i.linked{
 	position: relative;
 	margin: 0;
 	padding: 9px 0 10px 0;
-	border-top: 1px solid #597275;
+	border-top: 1px solid #8ba4a7;
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
